@@ -2,4 +2,8 @@ Initial creation.
 
 Changed in branch
 
+<<<<<<< HEAD
 Changed in master
+=======
+changed in branch again
+>>>>>>> 749abe1d01b1cba8883de074f2ac30903a675f91
